@@ -1,0 +1,20 @@
+	osu! installer
+--------------------------------------------------------
+	Change Log
+--------------------------------------------------------
+
+	-(new added)-
+
+ - osu now installs with linux
+ - typing "startOSU" (without quotes)
+will now start osu!
+ - typing "wacomset" (without quotes)
+will configure your wacom tablet automatically
+(can be configured with "nano .bash")
+
+                    -(bugs)-
+
+ - Shaders (does not work)
+causes white flashes
+ - Softening Filter (does not work)
+makes entire screen white
