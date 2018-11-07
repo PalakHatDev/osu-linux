@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.7.5
+Type=Application
+Terminal=true
+Exec=bash -ic "startOSU"
+Name=osu\!
+Icon=/usr/share/icons/Osu\!Logo_\(2015).png
